@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Priyank Mishra</h1>
-<h3 align="center">A passionate data engineer from India</h3>
+<h3 align="center">A passionate ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankmishraa&label=Profile%20views&color=0e75b6&style=flat" alt="priyankmishraa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankmishraa" alt="priyankmishraa" /></a> </p>
 
 - 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **Data Engineering, Dev Ops and Backend Development**
+- 💬 Ask me about **Data Engineering, ML Ops, Dev Ops and Backend Development**
 
 - 📫 How to reach me **contactpriyankmishra@gmail.com**
 
